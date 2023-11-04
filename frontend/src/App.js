@@ -1,7 +1,7 @@
 import GlobalStyle from "./styles/global"
 import styled from "styled-components"
 import Form from "./components/Form"
-import Grid from ".components/Grid"
+import Grid from "./components/Grid"
 import { toast, ToastContainer } from "react-toastify"
 import "react-toastify/dist/ReactToastify.css"
 
