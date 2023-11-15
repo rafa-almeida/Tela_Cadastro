@@ -89,9 +89,9 @@ const Form =({ getUsers, onEdit, setOnEdit }) => {
         }
 
         user.nome.value = "";
-        user.emai.value = "";  
+        user.email.value = "";  
         user.fone.value = "";
-        user.data_nascimento = "";
+        user.data_nascimento.value1 = "";
 
         setOnEdit(null);
         getUsers();
